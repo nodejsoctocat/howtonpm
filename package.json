@@ -2,6 +2,7 @@
   "name": "@br/howtonpm",
   "version": "1.0.0",
   "description": "how-to-npm tutorial project",
+  "repository": "https://github.com/nodejsoctocat/howtonpm",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
