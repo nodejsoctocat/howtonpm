@@ -1,6 +1,6 @@
 {
   "name": "@br/howtonpm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "how-to-npm tutorial project",
   "repository": "https://github.com/nodejsoctocat/howtonpm",
   "main": "index.js",
